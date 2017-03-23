@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "object": "wushu school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79999363422394,
+          31.92990194233791
+        ]
+      }
+    }
+  ]
+}
